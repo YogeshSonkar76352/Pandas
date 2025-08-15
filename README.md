@@ -1,10 +1,7 @@
 # 💫 Hi there 👋, I'm Yogesh Sonkar
 **🚀 Full Stack Developer | HTML • Css • JavaScript.js • Python • Flask  Passionate About Scalable Web Apps & Automation**
 
-**📧Email Me 👉 ✉️ **www.csc9044426841@gmail.com** For Collaboration/Project or Anything Else. 😊😊**
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=YogeshSonkar76352&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+**📧Email Me 👉 ✉️ **www.csc9044426841@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
 
 # 💻 Tech Stack:
